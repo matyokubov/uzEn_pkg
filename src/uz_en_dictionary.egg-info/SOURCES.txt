@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/uz_en_dictionary/__init__.py
+src/uz_en_dictionary/dicts.py
+src/uz_en_dictionary/getbase.py
+src/uz_en_dictionary.egg-info/PKG-INFO
+src/uz_en_dictionary.egg-info/SOURCES.txt
+src/uz_en_dictionary.egg-info/dependency_links.txt
+src/uz_en_dictionary.egg-info/top_level.txt
