@@ -7,7 +7,7 @@ UZ-EN Dictionary is a Python library for translate words (uz-en; en-uz).
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install uz_en_dictionary.
 
 ```bash
-pip install uz_en_dictionary
+pip install uz-en-dictionary
 ```
 
 ## Usage
