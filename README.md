@@ -1,6 +1,6 @@
 # UZ-EN Dictionary
 
-UZ-EN Dictionary is a Python library for translate words (uz-en; en-uz).
+UZ-EN Dictionary is a Python library to translate words (uz-en; en-uz).
 
 ## Installation
 
@@ -36,10 +36,3 @@ d = Dictionary(lang='uz')
 print(d.getwords_by_letter("q")) # Get words from letter
 # <Words (q)>
 ```
-## Author
-
-Firdavs Matyoqubov (11.20.2021)
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
